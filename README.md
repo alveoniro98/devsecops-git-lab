@@ -7,3 +7,7 @@ This project is used to practice Git collaboration workflow.
 The application health status is currently:
 
 HEALTHY
+
+## Environment
+
+Development
