@@ -1,0 +1,3 @@
+application status: HEALTHY
+environment: Development
+Health Check: OK
